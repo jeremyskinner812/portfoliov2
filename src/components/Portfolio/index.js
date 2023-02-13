@@ -7,7 +7,7 @@ function Portfolio() {
   const [projects] = useState([
     {
       name: 'Pupperz',
-      description: 'MERN Stack',
+      description: 'MERN Stack, TailwindCSS, GraphQL, Apollo, JWT, Bcrypt, Heroku',
       link: "https://github.com",
       repo: "https://github.com/The-Pupperz/The-Pupperz"
     },
