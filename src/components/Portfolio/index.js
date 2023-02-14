@@ -12,22 +12,22 @@ function Portfolio() {
       repo: "https://github.com/The-Pupperz/The-Pupperz"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Crowd-Source-Chronicles',
+      description: 'MySQL, Sequelize, Express, Handlebars, TailwindCSS, Node, Heroku, Cloudinary',
+      link: "https://calm-spire-29588.herokuapp.com/",
+      repo: "https://github.com/crowdsourcechronicles/chroniclesblog"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Your-Bar-And-Fridge',
+      description: 'HTML/CSS, JavaScript, Foundation CSS, Edamam API, CocktailsDB API',
+      link: "https://the-best-grouppe.github.io/Your-fridge-and-your-bar/",
+      repo: "https://github.com/The-Best-Grouppe/Your-fridge-and-your-bar"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Book-Search-Engine',
+      description: 'Google Books API, MERN stack, GraphQL, Apollo, JWT, Bcrypt, Mongoose, Heroku',
+      link: "https://pacific-beyond-31759.herokuapp.com/",
+      repo: "https://github.com/jeremyskinner812/book-search-engine"
     },
     {
       name: 'calculator',
