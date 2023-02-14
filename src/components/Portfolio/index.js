@@ -30,10 +30,10 @@ function Portfolio() {
       repo: "https://github.com/jeremyskinner812/book-search-engine"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Just-Another-Text-Editor',
+      description: 'PWA, Express, Node, Webpack, Babel, Heroku, Javascript, CSS',
+      link: "https://murmuring-sierra-35018.herokuapp.com/",
+      repo: "https://github.com/jeremyskinner812/text-editor"
     },
   ]);
 
