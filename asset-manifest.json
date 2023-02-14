@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfoliov2/static/css/main.6fbf9197.css",
+    "main.js": "/portfoliov2/static/js/main.87b5327e.js",
+    "static/media/Your-Bar-And-Fridge.jpg": "/portfoliov2/static/media/Your-Bar-And-Fridge.8e675a9326645cf6a0a0.jpg",
+    "static/media/cover-image.jpg": "/portfoliov2/static/media/cover-image.0c99356377318ecd9410.jpg",
+    "static/media/Book-Search-Engine.jpg": "/portfoliov2/static/media/Book-Search-Engine.0fdb7d1235e24e8f553f.jpg",
+    "static/media/Crowd-Source-Chronicles.jpg": "/portfoliov2/static/media/Crowd-Source-Chronicles.651bedee94c58f3a2371.jpg",
+    "static/media/Just-Another-Text-Editor.jpg": "/portfoliov2/static/media/Just-Another-Text-Editor.17ef173fdb6a4fe0220b.jpg",
+    "static/media/Pupperz.jpg": "/portfoliov2/static/media/Pupperz.658c9f7b0fdf12273c05.jpg",
+    "index.html": "/portfoliov2/index.html",
+    "main.6fbf9197.css.map": "/portfoliov2/static/css/main.6fbf9197.css.map",
+    "main.87b5327e.js.map": "/portfoliov2/static/js/main.87b5327e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fbf9197.css",
+    "static/js/main.87b5327e.js"
+  ]
+}
